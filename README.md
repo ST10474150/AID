@@ -2,7 +2,7 @@ Developer: [Iyad Hassim]
 Student Number: [ST10474150]
 Group: [3]
 Course: [HMAW0501]
-Subject: [IMAD5112]
+Subject: [WEDE5020]
 Website: Animals in Distress Website
 
 This project is a responsive website designed for the non-profit organisation Animals in Distress. The website provides information about the organisation, its services, adoption opportunities, and how supporters can get in touch or donate.
