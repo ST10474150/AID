@@ -171,3 +171,9 @@ nav a {
 nav a:hover {
   color: #ffb347;
 }
+.about h3 {
+  color: #2c5530;
+  margin-top: 1rem;
+  font-size: 1.4rem;
+  text-decoration: underline;
+}
